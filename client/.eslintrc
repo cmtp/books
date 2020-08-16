@@ -1,0 +1,49 @@
+{
+  "parser": "babel-eslint",
+  "extends": "airbnb",
+  "globals": {
+    "document": true,
+    "it": true,
+    "window": true,
+    "test": true,
+    "expect": true,
+    "describe": true,
+    "jest": true,
+    "beforeEach": true,
+    "cy": true
+  },
+  "rules": {
+    "arrow-parens": "off",
+    "comma-dangle": "off",
+    "function-paren-newline": "off",
+    "max-len": [1, 120],
+    "no-param-reassign": "off",
+    "no-confusing-arrow": "off",
+    "react/require-default-props": "off",
+    "linebreak-style": "off",
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "react/jsx-one-expression-per-line": "off",
+    "react/destructuring-assignment": "off",
+    "implicit-arrow-linebreak": "off",
+    "react/forbid-prop-types": [1, { "forbid": ["any"] }],
+    "jsx-a11y/label-has-associated-control": [
+      2,
+      {
+        "labelComponents": [],
+        "labelAttributes": [],
+        "controlComponents": ["Control"],
+        "depth": 3
+      }
+    ]
+  },
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "modules": true,
+      "jsx": true,
+      "arrowFunctions": true,
+      "classes": true
+    }
+  }
+}
