@@ -1,0 +1,40 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Javascript test",
+            "price": 3.4,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus lacus sapien, non efficitur tortor dapibus non. Integer vel diam lectus. Mauris non turpis mauris. Proin tempus ipsum id metus congue vestibulum. Donec quis tristique mauris, nec maximus risus. Sed tortor lorem, lacinia id tempus non, cursus a purus. Sed et dignissim lacus."
+        },
+        {
+            "id": 2,
+            "title": "Javascript test",
+            "price": 3.4,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus lacus sapien, non efficitur tortor dapibus non. Integer vel diam lectus. Mauris non turpis mauris. Proin tempus ipsum id metus congue vestibulum. Donec quis tristique mauris, nec maximus risus. Sed tortor lorem, lacinia id tempus non, cursus a purus. Sed et dignissim lacus."
+        },
+        {
+            "id": 3,
+            "title": "Javascript test",
+            "price": 3.4,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus lacus sapien, non efficitur tortor dapibus non. Integer vel diam lectus. Mauris non turpis mauris. Proin tempus ipsum id metus congue vestibulum. Donec quis tristique mauris, nec maximus risus. Sed tortor lorem, lacinia id tempus non, cursus a purus. Sed et dignissim lacus."
+        },
+        {
+            "id": 4,
+            "title": "Javascript test",
+            "price": 3.4,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus lacus sapien, non efficitur tortor dapibus non. Integer vel diam lectus. Mauris non turpis mauris. Proin tempus ipsum id metus congue vestibulum. Donec quis tristique mauris, nec maximus risus. Sed tortor lorem, lacinia id tempus non, cursus a purus. Sed et dignissim lacus."
+        },
+        {
+            "id": 5,
+            "title": "Javascript test",
+            "price": 3.4,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus lacus sapien, non efficitur tortor dapibus non. Integer vel diam lectus. Mauris non turpis mauris. Proin tempus ipsum id metus congue vestibulum. Donec quis tristique mauris, nec maximus risus. Sed tortor lorem, lacinia id tempus non, cursus a purus. Sed et dignissim lacus."
+        },
+        {
+            "id": 6,
+            "title": "Javascript test",
+            "price": 3.4,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus lacus sapien, non efficitur tortor dapibus non. Integer vel diam lectus. Mauris non turpis mauris. Proin tempus ipsum id metus congue vestibulum. Donec quis tristique mauris, nec maximus risus. Sed tortor lorem, lacinia id tempus non, cursus a purus. Sed et dignissim lacus."
+        }
+    ]
+}
